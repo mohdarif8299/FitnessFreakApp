@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FitnessFreak</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titleA">Breakfast</string>
+    <string name="titleB">Lunch</string>
+    <string name="titleC">Dinner</string>
+    <string name="login">login</string>
+    <string name="descriptioon">Our immune system is essential for our survival. Without a healthy immune system, our bodies would be open to attack from bacteria and viruses. Yoga to Boost Immunity is a program designed with asanas and pranayamas that helps reduces stress, conditions lungs, and the respiratory tract. It also helps in fighting anxiety, promotes good sleep, strengthens the body and relaxes the mind and thereby boosting immunity.</string>
+</resources>
